@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajidur Rahman Tarafder</h1>
-<h2 align="center">I'm currently a B.Sc 3rd year undergraduate at Rajshahi University of Engineering and Technology, Rajshahi. I'm a passionate software developer and tech enthusiast.Trying to explore different branches of CS.</h2>
+<h2 align="center">I'm currently a B.Sc 3rd year undergraduate in CSE at Rajshahi University of Engineering and Technology, Rajshahi. I'm a passionate software developer and tech enthusiast. Trying to explore different branches of CS.</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidur-rahman154" alt="sajidur-rahman154" /></a> </p>
 
