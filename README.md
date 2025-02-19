@@ -54,3 +54,6 @@
 ### 🏆 My Contributions
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sajidur-rahman154/sajidur-rahman154/output/github-contribution-grid-snake-dark.svg" />
+
+![snake gif](https://github.com/SaJiDuR-RaHmAn154/SaJiDuR-RaHmAn154/blob/output/github-contribution-grid-snake.gif)
+
