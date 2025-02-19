@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on [Recruitment_Website](https://github.com/SaJiDuR-RaHmAn154/Recruitment_Website)
 
-- 📫 How to reach me **sajidurrahmantarafder@gmail.com**
+- 📫 How to reach me
+- **sajidurrahmantarafder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
