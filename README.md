@@ -5,8 +5,6 @@
 <h3> - Passionate software developer and tech enthusiast </h3>
 <h3> - Currently exploring ios dev</h3>
 
-🔭  I’m currently working on [Recruitment_Website](https://github.com/SaJiDuR-RaHmAn154/Recruitment_Website)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/sajidur.rahman.3158652" target="blank"><img align="center" src="https://cdn.simpleicons.org/facebook/white" alt="Sajidur Rahman" height="30" width="40" /></a>
