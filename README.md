@@ -1,12 +1,12 @@
 <h1 align="center">Hello there! I'm Sajidur Rahman Tarafder </h1>
 
-### 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 <h3> - B.Sc 3rd year CSE undergraduate at Rajshahi University of Engineering & Technology,Rajshahi,Bangladesh 🇧🇩 </h3>
 <h3> - Passionate software developer and tech enthusiast </h3>
 <h3> - Currently exploring ios dev</h3>
 
  ---
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.facebook.com/sajidur.rahman.3158652" target="blank"><img align="center" src="https://cdn.simpleicons.org/facebook/white" alt="Sajidur Rahman" height="30" width="40" /></a>
 <a href="mailto:sajidurrahmantarafder@gmail.com" target="blank" >
@@ -19,7 +19,7 @@
 </p>
 
  ---
-<h3 align="left"> Languages and Tools:</h3>
+<h2 align="left"> Languages and Tools:</h2>
 <div style="display:flex; flex-direction:row; gap:16px;">
   <img height="32" width="32" src="https://cdn.simpleicons.org/c/white" alt="c" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/white" alt="cplusplus" />
@@ -51,8 +51,8 @@
 ### ⚡ My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sajidur-rahman154&theme=highcontrast&hide_border=true&border_radius=10&exclude_days=Fri%2CSat)](https://git.io/streak-stats)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sajidur-rahman154&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=450&border_radius=10)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidur-rahman154&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sajidur-rahman154&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=495&border_radius=10)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidur-rahman154&show_icons=true&locale=en&theme=vision-friendly-dark&card_width=495&hide_border=true&border_radius=10)
 
  ---
 ### 🏆 My Contributions
