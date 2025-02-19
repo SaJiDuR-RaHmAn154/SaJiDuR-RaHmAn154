@@ -32,16 +32,13 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" alt="linux" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/white" alt="mongodb" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/white" alt="mysql" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" alt="nextjs" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/white" alt="nodejs" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white" alt="pandas" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/postman/white" alt="postman" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" alt="python" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/white" alt="pytorch" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" alt="react" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white" alt="scikit_learn" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/white" alt="tailwind" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/white" alt="tensorflow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/arduino/white" alt="arduino" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/white" alt="bash" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/white" alt="bootstrap" />
