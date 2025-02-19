@@ -1,48 +1,50 @@
-<h1 align="center">Hi 👋, I'm Sajidur Rahman Tarafder</h1>
-<h3 align="center">B.Sc 3rd year undergraduate in CSE at Rajshahi University of Engineering and Technology, Rajshahi. Passionate software developer and tech enthusiast, currently exploring iOS Development.</h3>
+<h1 align="center">Hello there! I'm Sajidur Rahman Tarafder </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidur-rahman154" alt="sajidur-rahman154" /></a> </p>
+### 👨‍💻 About Me
+<h3> - B.Sc 3rd year CSE undergraduate at Rajshahi University of Engineering & Technology,Rajshahi,Bangladesh 🇧🇩 </h3>
+<h3> - Passionate software developer and tech enthusiast </h3>
+<h3> - Currently exploring ios dev</h3>
 
-- 🔭 I’m currently working on [Recruitment_Website](https://github.com/SaJiDuR-RaHmAn154/Recruitment_Website)
-
-- 📫 How to reach me: **sajidurrahmantarafder@gmail.com**
+🔭  I’m currently working on [Recruitment_Website](https://github.com/SaJiDuR-RaHmAn154/Recruitment_Website)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sajidur-rahman-910b28235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajidur rahman" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sajidur.rahman.3158652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sajidur Rahman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sajidurrahmanta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sajidur rahman" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sajidur10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="SaJiDuR10" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/sajidurrahmantarafder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajidur rahman" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sajidur.rahman.3158652" target="blank"><img align="center" src="https://cdn.simpleicons.org/facebook/white" alt="Sajidur Rahman" height="30" width="40" /></a>
+<a href="mailto:sajidurrahmantarafder@gmail.com" target="blank" >
+    <img align="center" height="30" width="40" src="https://cdn.simpleicons.org/gmail/white" />
+</a>
+<a href="https://codeforces.com/profile/sajidur10" target="blank"><img align="center" src="https://cdn.simpleicons.org/codeforces/white" alt="SaJiDuR10" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sajidur-rahman-910b28235/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/white" alt="sajidur rahman" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sajidurrahmanta1" target="blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank/white" alt="sajidur rahman" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sajidurrahmantarafder/" target="blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/white" alt="sajidur rahman" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display:flex; flex-direction:row; gap:10px;">
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" />
-  <img height="32" width="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" />
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" />
-  <img height="32" width="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
-  <img height="32" width="32" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" />
-  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" />
-  <img height="32" width="32" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" />
-  <img height="32" width="32" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" />
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" />
-  <img height="32" width="32" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" />
+<h3 align="left"> 🌐  Languages and Tools:</h3>
+<div style="display:flex; flex-direction:row; gap:16px;">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/c/white" alt="c" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/white" alt="cplusplus" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/swift/white" alt="swift" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/white" alt="css3" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/express/white" alt="express" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git/white" alt="git" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/white" alt="html5" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" alt="javascript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" alt="linux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/white" alt="mongodb" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/white" alt="mysql" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" alt="nextjs" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/white" alt="nodejs" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white" alt="pandas" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postman/white" alt="postman" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" alt="python" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/white" alt="pytorch" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" alt="react" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white" alt="scikit_learn" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/white" alt="tailwind" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/white" alt="tensorflow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/arduino/white" alt="arduino" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/white" alt="bash" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/white" alt="bootstrap" />
 </div>
 
 ### ⚡ My Stats
@@ -53,6 +55,7 @@
 
 ### 🏆 My Contributions
 
-<img height="80" width="100%" alt="GitHub Snake" src="https://github.com/SaJiDuR-RaHmAn154/SaJiDuR-RaHmAn154/blob/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/sajidur-rahman154/sajidur-rahman154/output/github-snake-dark.svg" />
 
+![](https://hit.yhype.me/github/profile?user_id=64137998)
 
