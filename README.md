@@ -3,7 +3,7 @@
 <h2>👨‍💻 About Me</h2>
 <h3> - B.Sc 3rd year CSE undergraduate at Rajshahi University of Engineering & Technology,Rajshahi,Bangladesh 🇧🇩 </h3>
 <h3> - Passionate software developer and tech enthusiast </h3>
-<h3> - Currently exploring ios dev</h3>
+<h3> - Currently exploring IOS Development</h3>
 
  ---
 <h2 align="left">Connect with me:</h2>
@@ -33,11 +33,9 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/white" alt="mongodb" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/white" alt="mysql" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/white" alt="nodejs" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white" alt="pandas" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/postman/white" alt="postman" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" alt="python" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" alt="react" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white" alt="scikit_learn" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/white" alt="tailwind" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/arduino/white" alt="arduino" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/white" alt="bash" />
