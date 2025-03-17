@@ -21,7 +21,7 @@
  ---
 <h2 align="left"> Languages and Tools:</h2>
 <div style="display:flex; flex-direction:row; gap:16px;">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c" alt="c" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/c/cyan" alt="c" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" alt="cplusplus" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/swift" alt="swift" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="python" />
