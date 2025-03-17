@@ -13,7 +13,7 @@
     <img align="center" height="30" width="40" src="https://cdn.simpleicons.org/gmail" />
 </a>
 <a href="https://codeforces.com/profile/sajidur10" target="blank"><img align="center" src="https://cdn.simpleicons.org/codeforces" alt="SaJiDuR10" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sajidur-rahman-910b28235/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="sajidur rahman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sajidur-rahman-910b28235/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/white" alt="sajidur rahman" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sajidurrahmanta1" target="blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank" alt="sajidur rahman" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sajidurrahmantarafder/" target="blank"><img align="center" src="https://cdn.simpleicons.org/leetcode" alt="sajidur rahman" height="30" width="40" /></a>
 </p>
