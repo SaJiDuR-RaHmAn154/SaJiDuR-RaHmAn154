@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Sajidur Rahman Tarafder </h1>
 
 <h2>👨‍💻 About Me</h2>
-<h3> - B.Sc 3rd year CSE undergraduate at Rajshahi University of Engineering & Technology,Rajshahi,Bangladesh 🇧🇩 </h3>
+<h3> - B.Sc 4th year CSE undergraduate at Rajshahi University of Engineering & Technology,Rajshahi,Bangladesh 🇧🇩 </h3>
 
  ---
 <h2 align="left">Connect with me:</h2>
